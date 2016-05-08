@@ -1,0 +1,12 @@
+#Sun May 08 11:24:43 CST 2016
+eclipse.preferences.version=1
+encoding//WebRoot/register.jsp=UTF-8
+encoding//src/com/qy/bean/ActionMapping.java=UTF-8
+encoding//src/com/qy/bean/ActionMappingManager.java=UTF-8
+encoding//src/com/qy/bean/Result.java=UTF-8
+encoding//src/com/qy/dao/UserDao.java=UTF-8
+encoding//src/com/qy/framework/ActionServlet.java=UTF-8
+encoding//src/com/qy/framework/action/LoginAction.java=UTF-8
+encoding//src/com/qy/framework/action/RegisterAction.java=UTF-8
+encoding//src/com/qy/servlet/LoginServlet.java=UTF-8
+encoding//src/com/qy/servlet/RegisterServlet.java=UTF-8

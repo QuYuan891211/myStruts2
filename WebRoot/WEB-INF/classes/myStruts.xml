@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myStruts>
+	<package>
+		<!-- 配置请求路径与action的关系 -->
+		<action name="login" class="com.qy.framework.action.LoginAction" method="login">
+			<result name="LoginSuccess" type="redirect">/index.jsp</result>
+			<result name="loginFailed">/login.jsp</result>
+		</action>
+		<action name="register" class="com.qy.framework.action.RegisterAction" method="register">
+			<result name="Success">/index.jsp</result>
+			<result name="Failed">/login.jsp</result>
+		</action>
+	</package>
+
+</myStruts>
